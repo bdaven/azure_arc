@@ -1,0 +1,23 @@
+###
+# Login into Azure using CLI
+
+az login
+
+# List the subscriptions associated with the account
+
+az account list
+
+
+ {
+    "cloudName": "AzureCloud",
+    "homeTenantId": "5f3b7498-500b-4a92-8cb0-f597980f52bd",
+    "id": "dd742775-b0fb-4d72-b688-2544f16bacdc",
+    "isDefault": true,
+    "managedByTenants": [],
+    "name": "001 Pay-As-You-Go",
+    "state": "Enabled",
+    "tenantId": "5f3b7498-500b-4a92-8cb0-f597980f52bd",
+    "user": {
+      "name": "barry.davenport@perrie.com.au",
+      "type": "user"
+}
