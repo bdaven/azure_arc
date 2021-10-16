@@ -21,3 +21,7 @@ az account list
       "name": "barry.davenport@perrie.com.au",
       "type": "user"
 }
+
+
+cd learn
+
